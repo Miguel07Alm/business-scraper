@@ -31,7 +31,7 @@ pip install selenium pandas openpyxl mypy
 
 ## 💻 Uso
 
-### Ejecución Manual
+### Ejecución
 
 1. Ejecutar el script principal:
 ```bash
