@@ -1,0 +1,8 @@
+*.env
+**.env
+**.env.*
+negocios_*.xlsx
+negocios_*.csv
+negocios_*.png
+scraper.log
+scraper*.log
